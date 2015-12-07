@@ -6,6 +6,8 @@ It is being made by many community developers and opened to everyone who want to
 
 **We are starting it now!**
 
+Go to (Issues)[https://github.com/TiagoGouvea/open-source-event-management/issues], take one and go on!
+
 ## Features
 
 A full feature list must be created.. but, starting now:
